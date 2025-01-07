@@ -14,7 +14,7 @@ GradientFlowDialog is a visually appealing and functional progress dialog create
 ---
 
 ## Demo  
-_A quick preview of GradientFlowDialog in action._  
+_A quick preview of the GradientFlowDialog in action._  
 
 ![Demo GIF](/demo.gif)  
 
